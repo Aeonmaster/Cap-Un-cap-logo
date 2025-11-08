@@ -1,0 +1,31 @@
+Terms of Service for Cap Un-cap
+Effective date: November 7, 2025
+Developer: Mitchell Sherman
+
+1. Acceptance of Terms
+By installing or using the Cap Un-cap add-on, you agree to these Terms of Service. If you do not agree, do not install or use the add-on.
+
+2. Description of Service
+Cap Un-cap is a Google Docs add-on that modifies the capitalization of selected text within a document. The add-on operates entirely within the user’s Google Docs environment and does not transmit data externally.
+
+3. User Responsibilities
+Users are responsible for how they use the add-on and for maintaining the security of their own Google accounts. The developer is not responsible for any loss or modification of data resulting from user actions.
+
+4. Data Handling
+Cap Un-cap does not collect or store any personal data. All operations occur within Google Docs and are subject to Google’s own privacy and security protections.
+
+5. Intellectual Property
+The Cap Un-cap add-on and its underlying code are owned by Mitchell Sherman. Users may not copy, modify, or redistribute the add-on without permission.
+
+6. Disclaimer of Warranty
+The add-on is provided “as is” without warranties of any kind. The developer does not guarantee that the service will be error-free or uninterrupted.
+
+7. Limitation of Liability
+To the maximum extent permitted by law, the developer is not liable for any damages arising from the use or inability to use the add-on, including loss of data or productivity.
+
+8. Changes to the Terms
+The developer may update these Terms of Service from time to time. Continued use of the add-on after such changes constitutes acceptance of the updated terms.
+
+9. Contact
+If you have questions about these terms, please contact:
+mjsanimes@gmail.com
